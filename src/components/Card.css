@@ -1,0 +1,62 @@
+.img {
+  width: 271px;
+  height: 160px;
+  border-radius: 6px;
+}
+.card-container {
+  padding: 4px 4px;
+  border-radius: 4px;
+  width: 24%;
+  position: relative;
+  cursor: pointer;
+}
+.channel-detail {
+  display: flex;
+  padding: 2px 2px;
+}
+.channel-logo-img {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+}
+.channel-title {
+  padding: 0px 8px;
+  font-family: "Roboto", "Arial", sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  -webkit-line-clamp: 2;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  line-height: 20px;
+}
+.channel-name {
+  padding: 4px 46px;
+  font-size: 12px;
+  font-family: "Roboto", "Arial", sans-serif;
+}
+.view-detail {
+  display: flex;
+  padding: 4px 46px;
+  font-size: 12px;
+  font-family: "Roboto", "Arial", sans-serif;
+  color: gray;
+}
+.video-upload {
+  padding: 0px 8px;
+}
+.duration {
+  background: black;
+  color: white;
+  position: absolute;
+  bottom: 8%;
+  right: 6%;
+  padding: 2px;
+  font-size: 12px;
+}
+.image-detail {
+  position: relative;
+}
+.kebab svg {
+  margin: 4px 0px;
+}

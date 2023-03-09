@@ -1,0 +1,8 @@
+.search-result-item-container {
+  display: flex;
+}
+.search-container-item {
+  width: 82%;
+  height: 88vh;
+  overflow-y: scroll;
+}

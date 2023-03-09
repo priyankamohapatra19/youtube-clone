@@ -1,0 +1,12 @@
+.list-container {
+  width: 616px;
+  height: 52vh;
+  overflow-y: scroll;
+  background: white;
+  position: absolute;
+  z-index: 99;
+  left: 22%;
+  top: 82%;
+  border-radius: 16px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}

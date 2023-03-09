@@ -1,0 +1,68 @@
+.video-container {
+  height: 800px;
+}
+
+.video-container-detail {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+.react-player {
+  width: 74%;
+  height: 100%;
+  margin-left: 8px;
+}
+.react-image-detail {
+  display: flex;
+  align-items: center;
+  padding: 8px 0px;
+}
+.react-video-detail {
+  font-family: "YouTube Sans", "Roboto", sans-serif;
+  font-weight: 600;
+  margin-top: 10px;
+}
+.video-detail-text {
+  font-family: "YouTube Sans", "Roboto", sans-serif;
+  font-weight: 220px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.react-image-detail img {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+
+.react-img-detail {
+  margin: 0px 16px;
+}
+.video-detail-subscriber {
+  font-size: 14px;
+  margin-top: 2px;
+  color: #aaaaaa;
+}
+.subscribe-button button {
+  width: 94px;
+  height: 36px;
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  border: none;
+  margin-left: 16px;
+}
+
+.subscribe-text {
+  font-family: "YouTube Sans", "Roboto", sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.related-videos-container {
+  width: 26%;
+  height: 700px;
+  overflow-y: scroll;
+}

@@ -1,0 +1,29 @@
+.nav-container {
+  display: flex;
+  margin-top: 8px;
+}
+.popular-cat {
+  display: flex;
+  align-items: center;
+  width: 95%;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+}
+.popular-items {
+  padding: 8px;
+  margin: 2px 2px;
+  background: rgb(242, 242, 242);
+  border-radius: 8px;
+  white-space: nowrap;
+}
+.backward-img svg {
+  margin-top: 8px;
+  margin-top: 4px;
+  font-size: 32px;
+}
+.backward-img {
+  cursor: pointer;
+}
+.popular-cat::-webkit-scrollbar {
+  -webkit-appearance: none;
+}

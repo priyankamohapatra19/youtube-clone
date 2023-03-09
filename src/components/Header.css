@@ -1,0 +1,75 @@
+.input {
+  width: 600px;
+  height: 36px;
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border: 1px solid grey;
+  padding: 1px 12px;
+}
+.search {
+  height: 38px;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  border: 1px solid grey;
+  background: rgb(242, 242, 242);
+  cursor: pointer;
+}
+.search-query-field {
+  display: flex;
+  align-items: center;
+  margin-left: 108px;
+}
+
+.search svg {
+  width: 80px;
+  height: 30px;
+  margin-top: 4px;
+  margin-left: 8px;
+}
+.header-container {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.logo {
+  position: relative;
+  margin-top: 0%;
+  display: flex;
+  cursor: pointer;
+}
+
+.fix svg {
+  width: 80px;
+  height: 30px;
+  margin-left: 8px;
+}
+
+.fivideo svg {
+  width: 80px;
+  height: 30px;
+  margin-left: 204px;
+}
+
+.fibell svg {
+  width: 80px;
+  height: 30px;
+}
+
+.photo img {
+  border-radius: 50%;
+}
+#super {
+  margin-top: 20px;
+  font-size: 12px;
+  margin-left: -5px;
+}
+
+.micro-phone svg {
+  width: 80px;
+  height: 30px;
+}
+.other-cat {
+  display: flex;
+  align-items: center;
+  margin-left: -98px;
+}

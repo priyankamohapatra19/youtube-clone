@@ -1,0 +1,16 @@
+.dropdownitem-container {
+  display: flex;
+  padding: 12px 8px;
+}
+.dropdownitem-text {
+  font-family: Roboto, Arial, sans-serif;
+  white-space: nowrap;
+  margin-right: 24px;
+  font-family: "Roboto", "Arial", sans-serif;
+  font-size: 14px;
+  padding: 0px 4px;
+}
+
+.dropdownitem-img {
+  padding: 0px 4px;
+}

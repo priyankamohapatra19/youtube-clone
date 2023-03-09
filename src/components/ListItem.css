@@ -1,0 +1,15 @@
+.list-item-container {
+  display: flex;
+  padding: 6px 12px;
+}
+
+.list-item-search svg {
+  padding: 2px 18px;
+}
+.list-item-text {
+  padding: 2px 0px;
+  font-weight: bold;
+}
+.list-item-container:hover {
+  background: rgb(242, 242, 242);
+}

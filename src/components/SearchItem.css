@@ -1,0 +1,54 @@
+.search-img {
+  width: 360px;
+  height: 201px;
+  border-radius: 16px;
+}
+
+.search-item-container {
+  display: flex;
+  padding: 6px 24px;
+  cursor: pointer;
+}
+.item-view {
+  display: flex;
+  align-items: center;
+  padding: 3px 0px;
+  padding: 8px 0px;
+}
+
+.item-name {
+  display: flex;
+  align-items: center;
+}
+
+.item-title {
+  font-family: "Roboto", "Arial", sans-serif;
+  font-weight: bold;
+}
+
+.item-image {
+  border-radius: 50%;
+}
+.published-time {
+  margin-left: 2px;
+  color: gray;
+}
+.stats {
+  color: gray;
+}
+.avatar-title {
+  color: gray;
+  margin-left: 8px;
+}
+.avatar-title {
+  margin-left: 2px;
+}
+.search-item-detail {
+  padding: 4px 16px;
+}
+.item-description {
+  padding: 6px 0px;
+  color: gray;
+  font-size: 13px;
+  font-family: "Roboto", "Arial", sans-serif;
+}
